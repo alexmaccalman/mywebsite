@@ -1,0 +1,14 @@
+
+environments/
+**/*.env
+__pycache__/
+
+/**/.terraform/*
+**/.DS_Store
+**/terrafom.tfstate
+**/terrafom.tfstate.backup
+**/.terrafom.lock.hcl
+=======
+**/.terraform/*
+terraform.tfstate
+terraform.tfstate.backup
